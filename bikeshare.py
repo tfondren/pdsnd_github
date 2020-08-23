@@ -198,7 +198,7 @@ def user_stats(df):
         print("Earliest Birth Year: {} \nMost Recent Birth Year: {} \nMost Common Birth Year: {}"\
         .format(int(earliest_year), int(most_recent_year), int(common_year)))
     else:
-        print("This city does not have Birth Year data available.") 
+        print("Sorry, but this city does not have Birth Year data available.") 
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
