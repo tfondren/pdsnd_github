@@ -5,7 +5,7 @@ Project and readme created 8/23/2020.
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project allows a user to retrieve descriptive statistics for bikeshare use in 3 U.S. cities.
 
 ### Files used
 Include the files used
