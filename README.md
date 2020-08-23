@@ -5,7 +5,7 @@ Project and readme created 8/23/2020.
 Explore US Bikeshare Data
 
 ### Description
-This project allows a user to retrieve descriptive statistics for bikeshare use in 3 U.S. cities.
+This project allows a user to retrieve descriptive statistics for bikeshare use in 3 U.S. cities (Chicago, New York, and Washington DC).
 
 ### Files used
 bikeshare.py : sole python script for user input and data retrieval
