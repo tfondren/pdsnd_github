@@ -11,7 +11,6 @@ This project allows a user to retrieve descriptive statistics for bikeshare use 
 bikeshare.py : sole python script for user input and data retrieval
 chicago.csv, new_york_city.csv, washington.csv : data files
 
-
 ### Credits
 1. load_data function retrieved from my work on Practice Problem #3
 2. popular_month/day/hour assignments utilized work from Practice problem #1
