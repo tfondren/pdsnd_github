@@ -13,4 +13,10 @@ chicago.csv, new_york_city.csv, washington.csv : data files
 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+1. load_data function retrieved from my work on Practice Problem #3
+2. popular_month/day/hour assignments utilized work from Practice problem #1
+3. used stack overflow to learn that a backslach continued code to the next line:
+	https://stackoverflow.com/questions/53162/how-can-i-do-a-line-break-line-continuation-in-python
+4. used pandas documentation of .idxmax() and .groupby() to identify frequent combinations:
+	https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.idxmax.html
+	https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.groupby.html
