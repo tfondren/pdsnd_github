@@ -188,7 +188,7 @@ def user_stats(df):
         gender_type_groups = df.groupby(['Gender']).size()
         print("Gender Counts: {}".format(gender_type_groups.to_string()))
     else:
-        print("This city does not have Gender data available.")
+        print("Sorry, but this city does not have Gender data available.")
 
     # TO DO: Display earliest, most recent, and most common year of birth
     if 'Birth Year' in df.columns:
